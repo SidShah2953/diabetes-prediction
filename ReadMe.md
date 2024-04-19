@@ -1,18 +1,9 @@
-# Project Info
+# MBS Prepayment Prediction using Deep Learning
 
-## Overview
+Models to be considered: Linear regression, Lasso linear regression, Decision Tree, DNN
 
-- Group - Max 4 people
-- Browse internet (google search, project pro, paperswith code, MIT/Stanford student projects etc) 
-- Consider the following factors and choose a topic:
-  - Relevance to Applied ML
-  - Feasibility
-  - Timeline
-  - Data availability
-  - Decent performance guarantee
+## References
 
-## Division of Responsibilities
-
-- Primary (1 person per aspect)
-- Secondary (all collaboration together)
-- Project management, planning and final presentation
+- Primary Reference: <https://drive.google.com/file/d/1LknQQUKYvG3Au_KAbjzq3YL1y-YmXc85/view?usp=sharing>
+- Data Dictionary: <https://www.fhfa.gov/DataTools/Downloads/Pages/Public-Use-Databases.aspx>
+  Database: `Data/2022_PUDB_EXPORT_123122.csv`
