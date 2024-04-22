@@ -1,0 +1,37 @@
+# Data Dictionary
+
+- `CreditScore`
+- `FirstTimeHomebuyer`
+- `MSA`
+- `MIP`
+- `Units`
+- `Occupancy`
+- `OCLTV`
+- `DTI`
+- `OrigUPB`
+- `LTV`
+- `OrigInterestRate`
+- `Channel`
+- `PPM`
+- `PropertyState`
+- `PropertyType`
+- `LoanPurpose`
+- `OrigLoanTerm`
+- `NumBorrowers`
+- `SellerName`
+- `ServicerName`
+- `EverDelinquent`
+- `MonthsDelinquent`
+- `MonthsInRepayment`
+- `FirstPayment_Year`
+- `FirstPayment_Month`
+- `Parsed_FirstPaymentDate`
+- `Maturity_Year`
+- `Maturity_Month`
+- `Parsed_MaturityDate`
+- `LTV_range`
+- `Credit_range`
+- `YearsInRepayment`
+- `Repay_range`
+- `IsFirstTimeHomebuyer`
+- `Duration`
