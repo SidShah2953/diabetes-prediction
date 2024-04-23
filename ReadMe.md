@@ -4,4 +4,4 @@ Models to be considered: Linear regression, Lasso linear regression, Decision Tr
 
 ## References
 
-- Database: ˀ<https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset>
+- Database: <https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset>
