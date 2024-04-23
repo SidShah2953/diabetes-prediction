@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/e5169f157d824c8ba3d9f844caeb04ec/artifacts
+end_time: 1713849469863
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: e5169f157d824c8ba3d9f844caeb04ec
+run_name: glamorous-cub-461
+run_uuid: e5169f157d824c8ba3d9f844caeb04ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849468729
+status: 3
+tags: []
+user_id: sidshah

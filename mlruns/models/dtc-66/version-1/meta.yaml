@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849366067
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849366067
+name: dtc-66
+run_id: a1c8fe9bd3e2469b94c44923a12740e9
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/a1c8fe9bd3e2469b94c44923a12740e9/artifacts/dtc-66
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/a1c8fe9bd3e2469b94c44923a12740e9/artifacts/dtc-66
+user_id: null
+version: 1

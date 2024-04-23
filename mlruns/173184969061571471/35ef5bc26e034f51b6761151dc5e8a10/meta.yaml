@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/35ef5bc26e034f51b6761151dc5e8a10/artifacts
+end_time: 1713849325794
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 35ef5bc26e034f51b6761151dc5e8a10
+run_name: capricious-lark-624
+run_uuid: 35ef5bc26e034f51b6761151dc5e8a10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849324599
+status: 3
+tags: []
+user_id: sidshah

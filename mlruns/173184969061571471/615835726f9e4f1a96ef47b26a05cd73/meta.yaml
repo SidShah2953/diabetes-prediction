@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/615835726f9e4f1a96ef47b26a05cd73/artifacts
+end_time: 1713849376081
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 615835726f9e4f1a96ef47b26a05cd73
+run_name: brawny-fish-265
+run_uuid: 615835726f9e4f1a96ef47b26a05cd73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849374852
+status: 3
+tags: []
+user_id: sidshah

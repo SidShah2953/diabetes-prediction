@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/1193643484c948dfbbd393a8a92d227b/artifacts
+end_time: 1713849334137
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 1193643484c948dfbbd393a8a92d227b
+run_name: aged-mink-335
+run_uuid: 1193643484c948dfbbd393a8a92d227b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849332966
+status: 3
+tags: []
+user_id: sidshah

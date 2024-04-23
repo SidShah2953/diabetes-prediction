@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/505f063a0d8a45baa6dad57b75e1ce2a/artifacts
+end_time: 1713849477050
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 505f063a0d8a45baa6dad57b75e1ce2a
+run_name: bold-fish-682
+run_uuid: 505f063a0d8a45baa6dad57b75e1ce2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849475819
+status: 3
+tags: []
+user_id: sidshah

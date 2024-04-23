@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849307596
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849307596
+name: dtc-17
+run_id: fffc915cd5b042abbb09494d732e4596
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/fffc915cd5b042abbb09494d732e4596/artifacts/dtc-17
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/fffc915cd5b042abbb09494d732e4596/artifacts/dtc-17
+user_id: null
+version: 2

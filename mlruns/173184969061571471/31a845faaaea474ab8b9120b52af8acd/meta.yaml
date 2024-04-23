@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/31a845faaaea474ab8b9120b52af8acd/artifacts
+end_time: 1713849223462
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 31a845faaaea474ab8b9120b52af8acd
+run_name: bemused-turtle-464
+run_uuid: 31a845faaaea474ab8b9120b52af8acd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849222392
+status: 3
+tags: []
+user_id: sidshah

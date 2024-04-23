@@ -50,9 +50,40 @@ def load_lr_data():
             (test_x.to_numpy(), np.array(test_y[goal_variable].values))
 
 
+def load_dtc_data():
+    train = pd.read_csv("Data/TTV Split/training.csv", header=0)
+    train_y = train[[goal_variable]]
+    train_x = train.drop(goal_variable, axis=1)
+    test = pd.read_csv("Data/TTV Split/testing.csv", header=0)
+    test_y = test[[goal_variable]]
+    test_x = test.drop(goal_variable, axis=1)
+    val = pd.read_csv("Data/TTV Split/validation.csv", header=0)
+    val_y = val[[goal_variable]]
+    val_x = val.drop(goal_variable, axis=1)
+    
+    train_x = pd.get_dummies(train_x, columns=categorical_cols, drop_first=False)
+    train_x = pd.get_dummies(train_x, columns=bool_cols, drop_first=True)
+    train_x = train_x.astype(int)
+    
+    val_x = pd.get_dummies(val_x, columns=categorical_cols, drop_first=False)
+    val_x = pd.get_dummies(val_x, columns=bool_cols, drop_first=True)
+    val_x = val_x.astype(int)
+    
+    test_x = pd.get_dummies(test_x, columns=categorical_cols, drop_first=False)
+    test_x = pd.get_dummies(test_x, columns=bool_cols, drop_first=True)
+    test_x = test_x.astype(int)
+    
+    return (train_x, np.array(train_y[goal_variable].values)), \
+            (val_x, np.array(val_y[goal_variable].values)), \
+            (test_x, np.array(test_y[goal_variable].values))
+
+
 def load_data(model:str):
     if model == 'linear-reg':
         train, test = load_lr_data()
         return train, test
+    elif model == 'dec-tree-class':
+        train, val, test = load_dtc_data()
+        return train, val, test
     else:
-        return (1, 2)
+        return "Unknown Model"

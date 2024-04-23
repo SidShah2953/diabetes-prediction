@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849221230
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849221230
+name: dtc-22
+run_id: 5304ee59fdce4632be2f30030b0e3176
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/5304ee59fdce4632be2f30030b0e3176/artifacts/dtc-22
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/5304ee59fdce4632be2f30030b0e3176/artifacts/dtc-22
+user_id: null
+version: 1

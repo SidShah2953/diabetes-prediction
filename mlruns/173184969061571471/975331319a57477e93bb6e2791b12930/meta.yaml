@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/975331319a57477e93bb6e2791b12930/artifacts
+end_time: 1713849208726
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 975331319a57477e93bb6e2791b12930
+run_name: melodic-sponge-545
+run_uuid: 975331319a57477e93bb6e2791b12930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849207579
+status: 3
+tags: []
+user_id: sidshah

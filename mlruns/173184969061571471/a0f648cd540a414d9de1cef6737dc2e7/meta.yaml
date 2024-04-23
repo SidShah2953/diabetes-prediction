@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/a0f648cd540a414d9de1cef6737dc2e7/artifacts
+end_time: 1713849430717
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: a0f648cd540a414d9de1cef6737dc2e7
+run_name: nebulous-shark-632
+run_uuid: a0f648cd540a414d9de1cef6737dc2e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849429548
+status: 3
+tags: []
+user_id: sidshah

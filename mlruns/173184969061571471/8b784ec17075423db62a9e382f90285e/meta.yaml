@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/8b784ec17075423db62a9e382f90285e/artifacts
+end_time: 1713849210994
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 8b784ec17075423db62a9e382f90285e
+run_name: shivering-newt-636
+run_uuid: 8b784ec17075423db62a9e382f90285e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849209843
+status: 3
+tags: []
+user_id: sidshah

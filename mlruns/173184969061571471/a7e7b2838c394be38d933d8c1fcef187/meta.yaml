@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/a7e7b2838c394be38d933d8c1fcef187/artifacts
+end_time: 1713849312424
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: a7e7b2838c394be38d933d8c1fcef187
+run_name: able-chimp-857
+run_uuid: a7e7b2838c394be38d933d8c1fcef187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849311216
+status: 3
+tags: []
+user_id: sidshah

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/504eb69f7ad54ea0a883387c331803c1/artifacts
+end_time: 1713849215634
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 504eb69f7ad54ea0a883387c331803c1
+run_name: sincere-penguin-219
+run_uuid: 504eb69f7ad54ea0a883387c331803c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849214435
+status: 3
+tags: []
+user_id: sidshah

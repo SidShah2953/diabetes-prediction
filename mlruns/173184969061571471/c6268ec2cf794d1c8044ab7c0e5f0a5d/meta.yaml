@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/c6268ec2cf794d1c8044ab7c0e5f0a5d/artifacts
+end_time: 1713849354111
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: c6268ec2cf794d1c8044ab7c0e5f0a5d
+run_name: lyrical-crane-395
+run_uuid: c6268ec2cf794d1c8044ab7c0e5f0a5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849352907
+status: 3
+tags: []
+user_id: sidshah

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/528cfa09089348fb94887f4e4aac1fc4/artifacts
+end_time: 1713849299966
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 528cfa09089348fb94887f4e4aac1fc4
+run_name: vaunted-wren-165
+run_uuid: 528cfa09089348fb94887f4e4aac1fc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849298733
+status: 3
+tags: []
+user_id: sidshah

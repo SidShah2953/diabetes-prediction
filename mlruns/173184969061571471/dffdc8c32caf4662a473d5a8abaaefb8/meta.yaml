@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/dffdc8c32caf4662a473d5a8abaaefb8/artifacts
+end_time: 1713849382156
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: dffdc8c32caf4662a473d5a8abaaefb8
+run_name: gentle-steed-847
+run_uuid: dffdc8c32caf4662a473d5a8abaaefb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849380937
+status: 3
+tags: []
+user_id: sidshah

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849437718
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849437718
+name: dtc-126
+run_id: 2f3a8b379d534806993a2a4fe3a1ec8f
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/2f3a8b379d534806993a2a4fe3a1ec8f/artifacts/dtc-126
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/2f3a8b379d534806993a2a4fe3a1ec8f/artifacts/dtc-126
+user_id: null
+version: 1

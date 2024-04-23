@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/0c1d12a88164417696753e72ed921f7b/artifacts
+end_time: 1713849551599
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 0c1d12a88164417696753e72ed921f7b
+run_name: beautiful-fly-345
+run_uuid: 0c1d12a88164417696753e72ed921f7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849550346
+status: 3
+tags: []
+user_id: sidshah

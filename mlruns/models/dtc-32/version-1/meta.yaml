@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849325787
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849325787
+name: dtc-32
+run_id: 35ef5bc26e034f51b6761151dc5e8a10
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/35ef5bc26e034f51b6761151dc5e8a10/artifacts/dtc-32
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/35ef5bc26e034f51b6761151dc5e8a10/artifacts/dtc-32
+user_id: null
+version: 1

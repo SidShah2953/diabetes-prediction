@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849299961
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849299961
+name: dtc-11
+run_id: 528cfa09089348fb94887f4e4aac1fc4
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/528cfa09089348fb94887f4e4aac1fc4/artifacts/dtc-11
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/528cfa09089348fb94887f4e4aac1fc4/artifacts/dtc-11
+user_id: null
+version: 2

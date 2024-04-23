@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/c06f43f1ea9244df985e16185ec3646a/artifacts
+end_time: 1713849503688
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: c06f43f1ea9244df985e16185ec3646a
+run_name: abundant-goat-58
+run_uuid: c06f43f1ea9244df985e16185ec3646a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849502455
+status: 3
+tags: []
+user_id: sidshah

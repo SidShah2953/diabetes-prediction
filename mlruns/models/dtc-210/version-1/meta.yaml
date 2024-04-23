@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849540116
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849540116
+name: dtc-210
+run_id: 4fbce32ee94a4df19d9cbbcb724f16d6
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/4fbce32ee94a4df19d9cbbcb724f16d6/artifacts/dtc-210
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/4fbce32ee94a4df19d9cbbcb724f16d6/artifacts/dtc-210
+user_id: null
+version: 1

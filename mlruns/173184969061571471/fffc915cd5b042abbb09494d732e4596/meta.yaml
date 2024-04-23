@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/fffc915cd5b042abbb09494d732e4596/artifacts
+end_time: 1713849307601
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: fffc915cd5b042abbb09494d732e4596
+run_name: flawless-snake-706
+run_uuid: fffc915cd5b042abbb09494d732e4596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849306388
+status: 3
+tags: []
+user_id: sidshah

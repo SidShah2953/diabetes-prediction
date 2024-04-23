@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/0f71e6e084584635bbe748db49032c63/artifacts
+end_time: 1713849474670
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 0f71e6e084584635bbe748db49032c63
+run_name: colorful-trout-521
+run_uuid: 0f71e6e084584635bbe748db49032c63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849473389
+status: 3
+tags: []
+user_id: sidshah

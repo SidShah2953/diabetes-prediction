@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/98b3f85fadba47ce8263e6e2e83d970e/artifacts
+end_time: 1713849340981
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 98b3f85fadba47ce8263e6e2e83d970e
+run_name: clumsy-whale-614
+run_uuid: 98b3f85fadba47ce8263e6e2e83d970e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849339859
+status: 3
+tags: []
+user_id: sidshah

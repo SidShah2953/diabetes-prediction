@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/5b388fb381d44e9587ec1d98e2847ae9/artifacts
+end_time: 1713849492135
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 5b388fb381d44e9587ec1d98e2847ae9
+run_name: awesome-toad-20
+run_uuid: 5b388fb381d44e9587ec1d98e2847ae9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849490889
+status: 3
+tags: []
+user_id: sidshah

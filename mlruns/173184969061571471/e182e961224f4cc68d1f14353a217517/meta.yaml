@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/e182e961224f4cc68d1f14353a217517/artifacts
+end_time: 1713849436570
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: e182e961224f4cc68d1f14353a217517
+run_name: adaptable-eel-313
+run_uuid: e182e961224f4cc68d1f14353a217517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849435405
+status: 3
+tags: []
+user_id: sidshah

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/0be55541463e4fb7a5f369538e4eb30b/artifacts
+end_time: 1713849358714
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 0be55541463e4fb7a5f369538e4eb30b
+run_name: enthused-shrimp-934
+run_uuid: 0be55541463e4fb7a5f369538e4eb30b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849357584
+status: 3
+tags: []
+user_id: sidshah

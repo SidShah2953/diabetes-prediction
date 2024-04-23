@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/03e172db50f74d3b8f3b98ac683f94be/artifacts
+end_time: 1713849481667
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 03e172db50f74d3b8f3b98ac683f94be
+run_name: languid-shark-332
+run_uuid: 03e172db50f74d3b8f3b98ac683f94be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849480468
+status: 3
+tags: []
+user_id: sidshah

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/a19646034e3748eda000735885cce980/artifacts
+end_time: 1713849459357
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: a19646034e3748eda000735885cce980
+run_name: sincere-deer-984
+run_uuid: a19646034e3748eda000735885cce980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849458292
+status: 3
+tags: []
+user_id: sidshah

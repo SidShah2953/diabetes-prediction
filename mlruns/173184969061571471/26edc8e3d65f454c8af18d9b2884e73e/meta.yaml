@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/26edc8e3d65f454c8af18d9b2884e73e/artifacts
+end_time: 1713849323396
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 26edc8e3d65f454c8af18d9b2884e73e
+run_name: blushing-lynx-917
+run_uuid: 26edc8e3d65f454c8af18d9b2884e73e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849322196
+status: 3
+tags: []
+user_id: sidshah

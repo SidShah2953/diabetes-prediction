@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/bb03b4123fa64effafb477fdb3eccb2b/artifacts
+end_time: 1713849324595
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: bb03b4123fa64effafb477fdb3eccb2b
+run_name: bustling-swan-730
+run_uuid: bb03b4123fa64effafb477fdb3eccb2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849323401
+status: 3
+tags: []
+user_id: sidshah

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/aa39dd85684d4f8fb387119b5d872234/artifacts
+end_time: 1713849207537
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: aa39dd85684d4f8fb387119b5d872234
+run_name: classy-whale-868
+run_uuid: aa39dd85684d4f8fb387119b5d872234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849206407
+status: 3
+tags: []
+user_id: sidshah

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/5304ee59fdce4632be2f30030b0e3176/artifacts
+end_time: 1713849221235
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 5304ee59fdce4632be2f30030b0e3176
+run_name: rumbling-snipe-395
+run_uuid: 5304ee59fdce4632be2f30030b0e3176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849220135
+status: 3
+tags: []
+user_id: sidshah

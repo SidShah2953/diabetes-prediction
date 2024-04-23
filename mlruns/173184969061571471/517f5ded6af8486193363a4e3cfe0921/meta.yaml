@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/517f5ded6af8486193363a4e3cfe0921/artifacts
+end_time: 1713849441187
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 517f5ded6af8486193363a4e3cfe0921
+run_name: sincere-gnat-699
+run_uuid: 517f5ded6af8486193363a4e3cfe0921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849440095
+status: 3
+tags: []
+user_id: sidshah

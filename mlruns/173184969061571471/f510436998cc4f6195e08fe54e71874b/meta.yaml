@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/f510436998cc4f6195e08fe54e71874b/artifacts
+end_time: 1713849212210
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: f510436998cc4f6195e08fe54e71874b
+run_name: blushing-kite-476
+run_uuid: f510436998cc4f6195e08fe54e71874b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849211000
+status: 3
+tags: []
+user_id: sidshah

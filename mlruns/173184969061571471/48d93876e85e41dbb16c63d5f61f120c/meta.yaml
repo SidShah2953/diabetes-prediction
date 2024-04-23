@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/48d93876e85e41dbb16c63d5f61f120c/artifacts
+end_time: 1713849388039
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 48d93876e85e41dbb16c63d5f61f120c
+run_name: monumental-crab-160
+run_uuid: 48d93876e85e41dbb16c63d5f61f120c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849386900
+status: 3
+tags: []
+user_id: sidshah

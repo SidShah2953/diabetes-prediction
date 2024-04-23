@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/fa534f75587740f3b74c777d869b3f11/artifacts
+end_time: 1713849206402
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: fa534f75587740f3b74c777d869b3f11
+run_name: treasured-turtle-503
+run_uuid: fa534f75587740f3b74c777d869b3f11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849205344
+status: 3
+tags: []
+user_id: sidshah

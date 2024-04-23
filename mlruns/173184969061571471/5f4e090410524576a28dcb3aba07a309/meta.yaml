@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/5f4e090410524576a28dcb3aba07a309/artifacts
+end_time: 1713849331774
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 5f4e090410524576a28dcb3aba07a309
+run_name: omniscient-fox-58
+run_uuid: 5f4e090410524576a28dcb3aba07a309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849330571
+status: 3
+tags: []
+user_id: sidshah

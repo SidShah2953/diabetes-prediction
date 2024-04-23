@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/eb333357209b49df92d149e548329f82/artifacts
+end_time: 1713849493279
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: eb333357209b49df92d149e548329f82
+run_name: calm-kite-114
+run_uuid: eb333357209b49df92d149e548329f82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849492139
+status: 3
+tags: []
+user_id: sidshah

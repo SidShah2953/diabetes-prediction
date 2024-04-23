@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/2f3a8b379d534806993a2a4fe3a1ec8f/artifacts
+end_time: 1713849437723
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 2f3a8b379d534806993a2a4fe3a1ec8f
+run_name: handsome-gull-877
+run_uuid: 2f3a8b379d534806993a2a4fe3a1ec8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849436575
+status: 3
+tags: []
+user_id: sidshah

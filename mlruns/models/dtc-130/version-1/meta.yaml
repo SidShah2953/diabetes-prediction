@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849442335
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849442335
+name: dtc-130
+run_id: 79211851d73447b780bf2d97c5d628c0
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/79211851d73447b780bf2d97c5d628c0/artifacts/dtc-130
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/79211851d73447b780bf2d97c5d628c0/artifacts/dtc-130
+user_id: null
+version: 1

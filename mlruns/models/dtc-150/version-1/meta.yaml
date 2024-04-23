@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849465154
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849465154
+name: dtc-150
+run_id: fd56e34bd6d4493c91bb8571ddf7f11a
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/fd56e34bd6d4493c91bb8571ddf7f11a/artifacts/dtc-150
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/fd56e34bd6d4493c91bb8571ddf7f11a/artifacts/dtc-150
+user_id: null
+version: 1

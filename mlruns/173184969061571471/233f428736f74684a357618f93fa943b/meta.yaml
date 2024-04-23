@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/233f428736f74684a357618f93fa943b/artifacts
+end_time: 1713849421141
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 233f428736f74684a357618f93fa943b
+run_name: illustrious-gnat-828
+run_uuid: 233f428736f74684a357618f93fa943b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849419918
+status: 3
+tags: []
+user_id: sidshah

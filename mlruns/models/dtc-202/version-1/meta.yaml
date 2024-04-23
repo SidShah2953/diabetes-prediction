@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849529662
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849529662
+name: dtc-202
+run_id: c6ad2ee097c64996858a13b744e8bc11
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/c6ad2ee097c64996858a13b744e8bc11/artifacts/dtc-202
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/c6ad2ee097c64996858a13b744e8bc11/artifacts/dtc-202
+user_id: null
+version: 1

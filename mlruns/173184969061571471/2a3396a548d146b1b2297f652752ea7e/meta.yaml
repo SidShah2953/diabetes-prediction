@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/2a3396a548d146b1b2297f652752ea7e/artifacts
+end_time: 1713849489713
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 2a3396a548d146b1b2297f652752ea7e
+run_name: salty-slug-411
+run_uuid: 2a3396a548d146b1b2297f652752ea7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849488607
+status: 3
+tags: []
+user_id: sidshah

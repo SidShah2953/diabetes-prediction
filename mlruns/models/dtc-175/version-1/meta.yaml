@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849494424
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849494424
+name: dtc-175
+run_id: 8ee4e037a070494fa3fae35516e160a2
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/8ee4e037a070494fa3fae35516e160a2/artifacts/dtc-175
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/8ee4e037a070494fa3fae35516e160a2/artifacts/dtc-175
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/aeb3f1ea2d214db8a2fff8527955873f/artifacts
+end_time: 1713849516958
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: aeb3f1ea2d214db8a2fff8527955873f
+run_name: indecisive-yak-849
+run_uuid: aeb3f1ea2d214db8a2fff8527955873f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849515498
+status: 3
+tags: []
+user_id: sidshah

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/e2caba9ebec6428e899ec8ee7f5df4ca/artifacts
+end_time: 1713849411664
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: e2caba9ebec6428e899ec8ee7f5df4ca
+run_name: resilient-flea-560
+run_uuid: e2caba9ebec6428e899ec8ee7f5df4ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849410444
+status: 3
+tags: []
+user_id: sidshah

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/a0bcf01fc853478ca9f7dda728dac412/artifacts
+end_time: 1713848839310
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: a0bcf01fc853478ca9f7dda728dac412
+run_name: capable-snail-247
+run_uuid: a0bcf01fc853478ca9f7dda728dac412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713848837494
+status: 3
+tags: []
+user_id: sidshah

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/440de3bc4ec243e69cdbd575aab77426/artifacts
+end_time: 1713849419914
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 440de3bc4ec243e69cdbd575aab77426
+run_name: adventurous-fox-309
+run_uuid: 440de3bc4ec243e69cdbd575aab77426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849418748
+status: 3
+tags: []
+user_id: sidshah

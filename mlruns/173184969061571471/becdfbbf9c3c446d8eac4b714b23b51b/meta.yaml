@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/becdfbbf9c3c446d8eac4b714b23b51b/artifacts
+end_time: 1713849205341
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: becdfbbf9c3c446d8eac4b714b23b51b
+run_name: nimble-roo-621
+run_uuid: becdfbbf9c3c446d8eac4b714b23b51b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849204147
+status: 3
+tags: []
+user_id: sidshah

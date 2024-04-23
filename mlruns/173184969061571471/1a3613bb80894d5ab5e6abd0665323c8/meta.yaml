@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/1a3613bb80894d5ab5e6abd0665323c8/artifacts
+end_time: 1713849204143
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 1a3613bb80894d5ab5e6abd0665323c8
+run_name: bouncy-calf-102
+run_uuid: 1a3613bb80894d5ab5e6abd0665323c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849202936
+status: 3
+tags: []
+user_id: sidshah

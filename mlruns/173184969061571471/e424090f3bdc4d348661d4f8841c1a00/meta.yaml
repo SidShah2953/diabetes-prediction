@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/e424090f3bdc4d348661d4f8841c1a00/artifacts
+end_time: 1713849308785
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: e424090f3bdc4d348661d4f8841c1a00
+run_name: sedate-stoat-781
+run_uuid: e424090f3bdc4d348661d4f8841c1a00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849307606
+status: 3
+tags: []
+user_id: sidshah

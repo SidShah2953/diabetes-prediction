@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/927925f6d0f5429f9481be9a0edc1481/artifacts
+end_time: 1713849384502
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 927925f6d0f5429f9481be9a0edc1481
+run_name: debonair-fawn-831
+run_uuid: 927925f6d0f5429f9481be9a0edc1481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849383307
+status: 3
+tags: []
+user_id: sidshah

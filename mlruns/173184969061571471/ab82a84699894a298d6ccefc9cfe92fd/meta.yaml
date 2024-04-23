@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/ab82a84699894a298d6ccefc9cfe92fd/artifacts
+end_time: 1713849348043
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: ab82a84699894a298d6ccefc9cfe92fd
+run_name: gentle-donkey-308
+run_uuid: ab82a84699894a298d6ccefc9cfe92fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849346885
+status: 3
+tags: []
+user_id: sidshah

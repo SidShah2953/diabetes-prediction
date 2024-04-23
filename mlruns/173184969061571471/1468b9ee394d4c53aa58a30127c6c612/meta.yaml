@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/1468b9ee394d4c53aa58a30127c6c612/artifacts
+end_time: 1713849460462
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 1468b9ee394d4c53aa58a30127c6c612
+run_name: fortunate-gnu-907
+run_uuid: 1468b9ee394d4c53aa58a30127c6c612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849459361
+status: 3
+tags: []
+user_id: sidshah

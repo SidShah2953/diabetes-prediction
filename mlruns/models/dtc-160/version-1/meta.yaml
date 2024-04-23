@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849477045
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849477045
+name: dtc-160
+run_id: 505f063a0d8a45baa6dad57b75e1ce2a
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/505f063a0d8a45baa6dad57b75e1ce2a/artifacts/dtc-160
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/505f063a0d8a45baa6dad57b75e1ce2a/artifacts/dtc-160
+user_id: null
+version: 1

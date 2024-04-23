@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/ff0ce32cd56346e29ed861030c7eecca/artifacts
+end_time: 1713849202931
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: ff0ce32cd56346e29ed861030c7eecca
+run_name: orderly-dolphin-125
+run_uuid: ff0ce32cd56346e29ed861030c7eecca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849201844
+status: 3
+tags: []
+user_id: sidshah

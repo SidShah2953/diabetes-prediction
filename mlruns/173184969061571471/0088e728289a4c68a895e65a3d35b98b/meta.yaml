@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/0088e728289a4c68a895e65a3d35b98b/artifacts
+end_time: 1713849453708
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 0088e728289a4c68a895e65a3d35b98b
+run_name: aged-zebra-910
+run_uuid: 0088e728289a4c68a895e65a3d35b98b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849452585
+status: 3
+tags: []
+user_id: sidshah

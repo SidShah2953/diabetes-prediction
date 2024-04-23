@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/6eba98b4318c4c21bd385555c6093811/artifacts
+end_time: 1713849541418
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 6eba98b4318c4c21bd385555c6093811
+run_name: bedecked-crab-764
+run_uuid: 6eba98b4318c4c21bd385555c6093811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849540126
+status: 3
+tags: []
+user_id: sidshah

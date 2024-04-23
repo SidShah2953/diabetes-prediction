@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/9327205fb5824490b97403fa83facc38/artifacts
+end_time: 1713849302459
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 9327205fb5824490b97403fa83facc38
+run_name: bittersweet-bee-930
+run_uuid: 9327205fb5824490b97403fa83facc38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849301231
+status: 3
+tags: []
+user_id: sidshah

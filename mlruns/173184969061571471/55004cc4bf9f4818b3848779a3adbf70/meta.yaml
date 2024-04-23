@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/55004cc4bf9f4818b3848779a3adbf70/artifacts
+end_time: 1713849479315
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 55004cc4bf9f4818b3848779a3adbf70
+run_name: illustrious-asp-285
+run_uuid: 55004cc4bf9f4818b3848779a3adbf70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849478184
+status: 3
+tags: []
+user_id: sidshah

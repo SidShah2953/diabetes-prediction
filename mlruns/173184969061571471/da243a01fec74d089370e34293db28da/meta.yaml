@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/da243a01fec74d089370e34293db28da/artifacts
+end_time: 1713849400998
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: da243a01fec74d089370e34293db28da
+run_name: defiant-owl-489
+run_uuid: da243a01fec74d089370e34293db28da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849399762
+status: 3
+tags: []
+user_id: sidshah

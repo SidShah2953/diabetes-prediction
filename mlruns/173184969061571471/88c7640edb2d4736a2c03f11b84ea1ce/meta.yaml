@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/88c7640edb2d4736a2c03f11b84ea1ce/artifacts
+end_time: 1713849342170
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 88c7640edb2d4736a2c03f11b84ea1ce
+run_name: learned-smelt-461
+run_uuid: 88c7640edb2d4736a2c03f11b84ea1ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849340986
+status: 3
+tags: []
+user_id: sidshah

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/2bdd0fe18e4c452ab60a6e14cd4a7f0f/artifacts
+end_time: 1713849378529
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 2bdd0fe18e4c452ab60a6e14cd4a7f0f
+run_name: wise-fawn-467
+run_uuid: 2bdd0fe18e4c452ab60a6e14cd4a7f0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849377320
+status: 3
+tags: []
+user_id: sidshah

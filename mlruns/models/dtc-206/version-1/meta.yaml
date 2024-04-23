@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849534883
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849534883
+name: dtc-206
+run_id: a7e7d20ea3264606b4127916a16a0ad9
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/a7e7d20ea3264606b4127916a16a0ad9/artifacts/dtc-206
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/a7e7d20ea3264606b4127916a16a0ad9/artifacts/dtc-206
+user_id: null
+version: 1

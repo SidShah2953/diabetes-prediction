@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/e52964ed6d2a401aadfbe57194630a71/artifacts
+end_time: 1713849501318
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: e52964ed6d2a401aadfbe57194630a71
+run_name: puzzled-lynx-702
+run_uuid: e52964ed6d2a401aadfbe57194630a71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849500063
+status: 3
+tags: []
+user_id: sidshah

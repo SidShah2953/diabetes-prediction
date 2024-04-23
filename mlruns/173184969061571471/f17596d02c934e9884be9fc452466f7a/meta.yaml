@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/f17596d02c934e9884be9fc452466f7a/artifacts
+end_time: 1713849520099
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: f17596d02c934e9884be9fc452466f7a
+run_name: caring-gull-676
+run_uuid: f17596d02c934e9884be9fc452466f7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849518245
+status: 3
+tags: []
+user_id: sidshah

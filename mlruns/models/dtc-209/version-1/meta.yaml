@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849538831
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849538831
+name: dtc-209
+run_id: bd236dca3ab84cc19a4298db74a8c6cb
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/bd236dca3ab84cc19a4298db74a8c6cb/artifacts/dtc-209
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/bd236dca3ab84cc19a4298db74a8c6cb/artifacts/dtc-209
+user_id: null
+version: 1

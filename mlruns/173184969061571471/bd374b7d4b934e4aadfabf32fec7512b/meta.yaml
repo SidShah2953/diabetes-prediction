@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/bd374b7d4b934e4aadfabf32fec7512b/artifacts
+end_time: 1713849490884
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: bd374b7d4b934e4aadfabf32fec7512b
+run_name: nosy-boar-677
+run_uuid: bd374b7d4b934e4aadfabf32fec7512b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849489718
+status: 3
+tags: []
+user_id: sidshah

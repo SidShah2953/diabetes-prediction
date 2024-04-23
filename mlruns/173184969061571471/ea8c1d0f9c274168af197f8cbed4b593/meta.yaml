@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/ea8c1d0f9c274168af197f8cbed4b593/artifacts
+end_time: 1713849372169
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: ea8c1d0f9c274168af197f8cbed4b593
+run_name: stylish-roo-670
+run_uuid: ea8c1d0f9c274168af197f8cbed4b593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849371014
+status: 3
+tags: []
+user_id: sidshah

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/650a6d9532764776ae31ecc70d2a835d/artifacts
+end_time: 1713849446924
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 650a6d9532764776ae31ecc70d2a835d
+run_name: resilient-calf-469
+run_uuid: 650a6d9532764776ae31ecc70d2a835d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849445792
+status: 3
+tags: []
+user_id: sidshah

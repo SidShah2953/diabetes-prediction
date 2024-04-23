@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/23d7740496724dba92c9d3b3fedd578a/artifacts
+end_time: 1713849526896
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 23d7740496724dba92c9d3b3fedd578a
+run_name: funny-asp-558
+run_uuid: 23d7740496724dba92c9d3b3fedd578a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849525361
+status: 3
+tags: []
+user_id: sidshah

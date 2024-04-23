@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/a6126e5951564d04857b088c581be790/artifacts
+end_time: 1713849364657
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: a6126e5951564d04857b088c581be790
+run_name: gaudy-gnat-381
+run_uuid: a6126e5951564d04857b088c581be790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849363457
+status: 3
+tags: []
+user_id: sidshah

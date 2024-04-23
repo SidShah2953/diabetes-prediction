@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/8f800a78be3d4a03bad19605eb068f10/artifacts
+end_time: 1713849398620
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 8f800a78be3d4a03bad19605eb068f10
+run_name: melodic-conch-165
+run_uuid: 8f800a78be3d4a03bad19605eb068f10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849397460
+status: 3
+tags: []
+user_id: sidshah

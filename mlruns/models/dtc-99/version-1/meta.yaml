@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849405669
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849405669
+name: dtc-99
+run_id: 04a241ef3ade4b44b2ea25163ede1abf
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/04a241ef3ade4b44b2ea25163ede1abf/artifacts/dtc-99
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/04a241ef3ade4b44b2ea25163ede1abf/artifacts/dtc-99
+user_id: null
+version: 1

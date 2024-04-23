@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/f4776dff93004af6ba3673b22b3cf2d8/artifacts
+end_time: 1713849550341
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: f4776dff93004af6ba3673b22b3cf2d8
+run_name: entertaining-ray-606
+run_uuid: f4776dff93004af6ba3673b22b3cf2d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849549078
+status: 3
+tags: []
+user_id: sidshah

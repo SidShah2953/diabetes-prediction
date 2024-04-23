@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/d8bcae9763df44db8c6eeac289012268/artifacts
+end_time: 1713849336438
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: d8bcae9763df44db8c6eeac289012268
+run_name: sincere-bee-761
+run_uuid: d8bcae9763df44db8c6eeac289012268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849335337
+status: 3
+tags: []
+user_id: sidshah

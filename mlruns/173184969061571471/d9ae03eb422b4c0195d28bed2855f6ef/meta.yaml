@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/d9ae03eb422b4c0195d28bed2855f6ef/artifacts
+end_time: 1713849428382
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: d9ae03eb422b4c0195d28bed2855f6ef
+run_name: monumental-wolf-980
+run_uuid: d9ae03eb422b4c0195d28bed2855f6ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849427206
+status: 3
+tags: []
+user_id: sidshah

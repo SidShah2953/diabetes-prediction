@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/861db64fd0824c08aa67cba0a29f1ab5/artifacts
+end_time: 1713849200751
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 861db64fd0824c08aa67cba0a29f1ab5
+run_name: honorable-hen-696
+run_uuid: 861db64fd0824c08aa67cba0a29f1ab5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849199660
+status: 3
+tags: []
+user_id: sidshah

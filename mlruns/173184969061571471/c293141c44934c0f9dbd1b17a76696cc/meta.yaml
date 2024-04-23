@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/c293141c44934c0f9dbd1b17a76696cc/artifacts
+end_time: 1713849425982
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: c293141c44934c0f9dbd1b17a76696cc
+run_name: burly-snail-964
+run_uuid: c293141c44934c0f9dbd1b17a76696cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849424807
+status: 3
+tags: []
+user_id: sidshah

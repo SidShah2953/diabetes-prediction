@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849435396
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849435396
+name: dtc-124
+run_id: b893554d6a2c4ac0bd6584e0925bd49e
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/b893554d6a2c4ac0bd6584e0925bd49e/artifacts/dtc-124
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/b893554d6a2c4ac0bd6584e0925bd49e/artifacts/dtc-124
+user_id: null
+version: 1

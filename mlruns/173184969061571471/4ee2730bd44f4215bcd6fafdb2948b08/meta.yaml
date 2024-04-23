@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/4ee2730bd44f4215bcd6fafdb2948b08/artifacts
+end_time: 1713849506085
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 4ee2730bd44f4215bcd6fafdb2948b08
+run_name: spiffy-stag-294
+run_uuid: 4ee2730bd44f4215bcd6fafdb2948b08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849504898
+status: 3
+tags: []
+user_id: sidshah

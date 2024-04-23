@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849340977
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849340977
+name: dtc-45
+run_id: 98b3f85fadba47ce8263e6e2e83d970e
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/98b3f85fadba47ce8263e6e2e83d970e/artifacts/dtc-45
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/98b3f85fadba47ce8263e6e2e83d970e/artifacts/dtc-45
+user_id: null
+version: 1

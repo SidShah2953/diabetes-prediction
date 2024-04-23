@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/537adf1390df4a6fb9478c0db962a907/artifacts
+end_time: 1713849530961
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 537adf1390df4a6fb9478c0db962a907
+run_name: delicate-fly-282
+run_uuid: 537adf1390df4a6fb9478c0db962a907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849529673
+status: 3
+tags: []
+user_id: sidshah

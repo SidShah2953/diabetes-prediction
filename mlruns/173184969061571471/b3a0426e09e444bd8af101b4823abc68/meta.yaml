@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/b3a0426e09e444bd8af101b4823abc68/artifacts
+end_time: 1713849305053
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: b3a0426e09e444bd8af101b4823abc68
+run_name: trusting-panda-259
+run_uuid: b3a0426e09e444bd8af101b4823abc68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849303721
+status: 3
+tags: []
+user_id: sidshah

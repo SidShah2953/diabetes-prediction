@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/16aeb4920bc04a668a6db1edb3c36199/artifacts
+end_time: 1713849367476
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 16aeb4920bc04a668a6db1edb3c36199
+run_name: aged-hound-455
+run_uuid: 16aeb4920bc04a668a6db1edb3c36199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849366092
+status: 3
+tags: []
+user_id: sidshah

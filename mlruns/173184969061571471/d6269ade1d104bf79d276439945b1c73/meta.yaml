@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/d6269ade1d104bf79d276439945b1c73/artifacts
+end_time: 1713849511607
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: d6269ade1d104bf79d276439945b1c73
+run_name: able-roo-742
+run_uuid: d6269ade1d104bf79d276439945b1c73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849509986
+status: 3
+tags: []
+user_id: sidshah

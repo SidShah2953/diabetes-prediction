@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/4f8ce6daa04e4e4abc3b2fd994889a1d/artifacts
+end_time: 1713849554469
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 4f8ce6daa04e4e4abc3b2fd994889a1d
+run_name: magnificent-boar-344
+run_uuid: 4f8ce6daa04e4e4abc3b2fd994889a1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849553003
+status: 3
+tags: []
+user_id: sidshah

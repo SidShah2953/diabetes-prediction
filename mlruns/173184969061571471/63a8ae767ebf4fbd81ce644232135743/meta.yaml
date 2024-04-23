@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/63a8ae767ebf4fbd81ce644232135743/artifacts
+end_time: 1713849522857
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 63a8ae767ebf4fbd81ce644232135743
+run_name: fearless-carp-342
+run_uuid: 63a8ae767ebf4fbd81ce644232135743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849521635
+status: 3
+tags: []
+user_id: sidshah

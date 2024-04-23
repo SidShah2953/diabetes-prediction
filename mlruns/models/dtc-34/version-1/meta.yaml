@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849328194
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849328194
+name: dtc-34
+run_id: f0d225f318ee4af8a75cc09a6c84bbcc
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/f0d225f318ee4af8a75cc09a6c84bbcc/artifacts/dtc-34
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/f0d225f318ee4af8a75cc09a6c84bbcc/artifacts/dtc-34
+user_id: null
+version: 1

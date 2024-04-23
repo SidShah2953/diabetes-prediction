@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/8ee4e037a070494fa3fae35516e160a2/artifacts
+end_time: 1713849494429
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 8ee4e037a070494fa3fae35516e160a2
+run_name: honorable-kite-840
+run_uuid: 8ee4e037a070494fa3fae35516e160a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849493294
+status: 3
+tags: []
+user_id: sidshah

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/756a508de3674c83a993322bed520768/artifacts
+end_time: 1713849423531
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 756a508de3674c83a993322bed520768
+run_name: calm-hen-31
+run_uuid: 756a508de3674c83a993322bed520768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849422353
+status: 3
+tags: []
+user_id: sidshah

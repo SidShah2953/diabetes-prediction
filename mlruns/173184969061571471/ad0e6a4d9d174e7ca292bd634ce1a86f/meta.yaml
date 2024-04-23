@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/ad0e6a4d9d174e7ca292bd634ce1a86f/artifacts
+end_time: 1713849297521
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: ad0e6a4d9d174e7ca292bd634ce1a86f
+run_name: handsome-steed-734
+run_uuid: ad0e6a4d9d174e7ca292bd634ce1a86f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849296143
+status: 3
+tags: []
+user_id: sidshah

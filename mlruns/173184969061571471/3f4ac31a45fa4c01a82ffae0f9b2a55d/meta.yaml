@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/3f4ac31a45fa4c01a82ffae0f9b2a55d/artifacts
+end_time: 1713849452581
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 3f4ac31a45fa4c01a82ffae0f9b2a55d
+run_name: worried-stag-903
+run_uuid: 3f4ac31a45fa4c01a82ffae0f9b2a55d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849451470
+status: 3
+tags: []
+user_id: sidshah

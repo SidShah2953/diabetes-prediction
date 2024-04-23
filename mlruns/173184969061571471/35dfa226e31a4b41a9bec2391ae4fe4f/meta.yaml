@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/35dfa226e31a4b41a9bec2391ae4fe4f/artifacts
+end_time: 1713849329379
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 35dfa226e31a4b41a9bec2391ae4fe4f
+run_name: capable-doe-302
+run_uuid: 35dfa226e31a4b41a9bec2391ae4fe4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849328204
+status: 3
+tags: []
+user_id: sidshah

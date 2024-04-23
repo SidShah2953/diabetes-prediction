@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/6b5d4f52115841d9a9ff2421884f5554/artifacts
+end_time: 1713849521629
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 6b5d4f52115841d9a9ff2421884f5554
+run_name: silent-gnu-184
+run_uuid: 6b5d4f52115841d9a9ff2421884f5554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849520116
+status: 3
+tags: []
+user_id: sidshah

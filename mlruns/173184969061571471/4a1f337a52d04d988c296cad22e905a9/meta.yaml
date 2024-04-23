@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/4a1f337a52d04d988c296cad22e905a9/artifacts
+end_time: 1713849536137
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 4a1f337a52d04d988c296cad22e905a9
+run_name: orderly-penguin-790
+run_uuid: 4a1f337a52d04d988c296cad22e905a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849534892
+status: 3
+tags: []
+user_id: sidshah

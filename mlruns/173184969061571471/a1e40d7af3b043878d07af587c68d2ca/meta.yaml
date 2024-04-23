@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/a1e40d7af3b043878d07af587c68d2ca/artifacts
+end_time: 1713849369864
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: a1e40d7af3b043878d07af587c68d2ca
+run_name: peaceful-rook-670
+run_uuid: a1e40d7af3b043878d07af587c68d2ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849368666
+status: 3
+tags: []
+user_id: sidshah

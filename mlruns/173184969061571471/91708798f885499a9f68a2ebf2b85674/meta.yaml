@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/91708798f885499a9f68a2ebf2b85674/artifacts
+end_time: 1713849498908
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 91708798f885499a9f68a2ebf2b85674
+run_name: indecisive-bass-195
+run_uuid: 91708798f885499a9f68a2ebf2b85674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849497810
+status: 3
+tags: []
+user_id: sidshah

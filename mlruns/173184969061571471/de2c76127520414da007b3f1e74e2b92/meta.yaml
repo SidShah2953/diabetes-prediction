@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/de2c76127520414da007b3f1e74e2b92/artifacts
+end_time: 1713849311211
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: de2c76127520414da007b3f1e74e2b92
+run_name: placid-ram-51
+run_uuid: de2c76127520414da007b3f1e74e2b92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849310001
+status: 3
+tags: []
+user_id: sidshah

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/fe01042d78fe49d28c162707917d1c7f/artifacts
+end_time: 1713849418744
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: fe01042d78fe49d28c162707917d1c7f
+run_name: melodic-doe-656
+run_uuid: fe01042d78fe49d28c162707917d1c7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849417574
+status: 3
+tags: []
+user_id: sidshah

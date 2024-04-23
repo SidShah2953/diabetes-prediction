@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/c35f34df1d014cc8b7d60fe40913d73f/artifacts
+end_time: 1713849462846
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: c35f34df1d014cc8b7d60fe40913d73f
+run_name: debonair-quail-194
+run_uuid: c35f34df1d014cc8b7d60fe40913d73f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849461665
+status: 3
+tags: []
+user_id: sidshah

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849374821
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849374821
+name: dtc-73
+run_id: 8a06f3001c9147b2936c95f72eb95dbe
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/8a06f3001c9147b2936c95f72eb95dbe/artifacts/dtc-73
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/8a06f3001c9147b2936c95f72eb95dbe/artifacts/dtc-73
+user_id: null
+version: 1

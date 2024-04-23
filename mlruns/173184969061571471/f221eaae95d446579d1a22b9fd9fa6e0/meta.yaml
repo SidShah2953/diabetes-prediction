@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/f221eaae95d446579d1a22b9fd9fa6e0/artifacts
+end_time: 1713849542806
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: f221eaae95d446579d1a22b9fd9fa6e0
+run_name: angry-stag-34
+run_uuid: f221eaae95d446579d1a22b9fd9fa6e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849541422
+status: 3
+tags: []
+user_id: sidshah

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849346875
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849346875
+name: dtc-50
+run_id: a9d93e5173d543efb8596a6fb3e3f6c5
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/a9d93e5173d543efb8596a6fb3e3f6c5/artifacts/dtc-50
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/a9d93e5173d543efb8596a6fb3e3f6c5/artifacts/dtc-50
+user_id: null
+version: 1

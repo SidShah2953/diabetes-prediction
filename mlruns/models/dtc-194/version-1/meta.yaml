@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849518235
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849518235
+name: dtc-194
+run_id: 386a3b0a507d4311bce29d82f085c707
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/386a3b0a507d4311bce29d82f085c707/artifacts/dtc-194
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/386a3b0a507d4311bce29d82f085c707/artifacts/dtc-194
+user_id: null
+version: 1

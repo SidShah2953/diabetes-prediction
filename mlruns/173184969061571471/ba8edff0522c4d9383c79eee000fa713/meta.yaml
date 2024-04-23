@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/ba8edff0522c4d9383c79eee000fa713/artifacts
+end_time: 1713849488603
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: ba8edff0522c4d9383c79eee000fa713
+run_name: thundering-worm-442
+run_uuid: ba8edff0522c4d9383c79eee000fa713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849487521
+status: 3
+tags: []
+user_id: sidshah

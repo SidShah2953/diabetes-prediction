@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/a1c8fe9bd3e2469b94c44923a12740e9/artifacts
+end_time: 1713849366083
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: a1c8fe9bd3e2469b94c44923a12740e9
+run_name: victorious-seal-462
+run_uuid: a1c8fe9bd3e2469b94c44923a12740e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849364663
+status: 3
+tags: []
+user_id: sidshah

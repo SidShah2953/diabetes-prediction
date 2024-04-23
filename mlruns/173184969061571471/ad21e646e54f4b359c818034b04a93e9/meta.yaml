@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/ad21e646e54f4b359c818034b04a93e9/artifacts
+end_time: 1713849320961
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: ad21e646e54f4b359c818034b04a93e9
+run_name: overjoyed-shrew-780
+run_uuid: ad21e646e54f4b359c818034b04a93e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849319724
+status: 3
+tags: []
+user_id: sidshah

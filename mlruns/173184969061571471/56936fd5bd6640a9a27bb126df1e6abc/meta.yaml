@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/56936fd5bd6640a9a27bb126df1e6abc/artifacts
+end_time: 1713849385705
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 56936fd5bd6640a9a27bb126df1e6abc
+run_name: glamorous-seal-457
+run_uuid: 56936fd5bd6640a9a27bb126df1e6abc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849384507
+status: 3
+tags: []
+user_id: sidshah

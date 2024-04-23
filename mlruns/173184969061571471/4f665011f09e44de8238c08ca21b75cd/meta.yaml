@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/4f665011f09e44de8238c08ca21b75cd/artifacts
+end_time: 1713849362228
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 4f665011f09e44de8238c08ca21b75cd
+run_name: bald-koi-164
+run_uuid: 4f665011f09e44de8238c08ca21b75cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849361073
+status: 3
+tags: []
+user_id: sidshah

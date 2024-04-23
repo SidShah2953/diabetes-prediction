@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713849459352
+current_stage: None
+description: ''
+last_updated_timestamp: 1713849459352
+name: dtc-145
+run_id: a19646034e3748eda000735885cce980
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/a19646034e3748eda000735885cce980/artifacts/dtc-145
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/a19646034e3748eda000735885cce980/artifacts/dtc-145
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/d84469768b8b4269b567bd1200c63e81/artifacts
+end_time: 1713849448035
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: d84469768b8b4269b567bd1200c63e81
+run_name: skittish-hog-363
+run_uuid: d84469768b8b4269b567bd1200c63e81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849446928
+status: 3
+tags: []
+user_id: sidshah

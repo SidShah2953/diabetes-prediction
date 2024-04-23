@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/d7aedf03cd4d4ea2bdf7833f2fe14c6c/artifacts
+end_time: 1713849313806
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: d7aedf03cd4d4ea2bdf7833f2fe14c6c
+run_name: receptive-asp-145
+run_uuid: d7aedf03cd4d4ea2bdf7833f2fe14c6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713849312431
+status: 3
+tags: []
+user_id: sidshah
