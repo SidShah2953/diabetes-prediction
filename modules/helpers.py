@@ -121,7 +121,7 @@ def load_data(model:str):
         train, val, test = load_dtc_data()
         return train, val, test
     elif model == 'dnn':
-        train, val, test = load_dtc_data()
+        train, val, test = load_dnn_data()
         return train, val, test
     else:
         return "Unknown Model"
