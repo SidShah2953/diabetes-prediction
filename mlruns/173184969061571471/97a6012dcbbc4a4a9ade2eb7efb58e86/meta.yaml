@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/97a6012dcbbc4a4a9ade2eb7efb58e86/artifacts
+end_time: 1714144541908
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 97a6012dcbbc4a4a9ade2eb7efb58e86
+run_name: angry-pig-317
+run_uuid: 97a6012dcbbc4a4a9ade2eb7efb58e86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714144456496
+status: 3
+tags: []
+user_id: siddhants

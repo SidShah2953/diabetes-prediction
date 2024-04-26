@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/19785efda5b74aeea53c7f2c948547f0/artifacts
+end_time: 1714145773513
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 19785efda5b74aeea53c7f2c948547f0
+run_name: fortunate-bear-944
+run_uuid: 19785efda5b74aeea53c7f2c948547f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714145726628
+status: 3
+tags: []
+user_id: siddhants

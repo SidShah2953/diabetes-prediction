@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/ed91438063354f93944dc047daf27d9a/artifacts
+end_time: 1714140398689
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: ed91438063354f93944dc047daf27d9a
+run_name: polite-swan-111
+run_uuid: ed91438063354f93944dc047daf27d9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714140398638
+status: 4
+tags: []
+user_id: siddhants

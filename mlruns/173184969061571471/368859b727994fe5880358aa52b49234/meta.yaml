@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/368859b727994fe5880358aa52b49234/artifacts
+end_time: 1714145957910
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 368859b727994fe5880358aa52b49234
+run_name: sassy-moth-329
+run_uuid: 368859b727994fe5880358aa52b49234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714145872561
+status: 3
+tags: []
+user_id: siddhants

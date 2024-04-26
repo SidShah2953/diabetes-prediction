@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/9de8f2bddc9c414990fa31034b24b09f/artifacts
+end_time: 1714145538729
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 9de8f2bddc9c414990fa31034b24b09f
+run_name: marvelous-skunk-435
+run_uuid: 9de8f2bddc9c414990fa31034b24b09f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714145488580
+status: 3
+tags: []
+user_id: siddhants

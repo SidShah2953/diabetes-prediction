@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/fcf574be91604c05ba09f2e71c609352/artifacts
+end_time: 1714145872553
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: fcf574be91604c05ba09f2e71c609352
+run_name: lyrical-mare-60
+run_uuid: fcf574be91604c05ba09f2e71c609352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714145821916
+status: 3
+tags: []
+user_id: siddhants

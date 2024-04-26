@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/c37b78a9c06745709d8db153631045cb/artifacts
+end_time: 1714142420019
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: c37b78a9c06745709d8db153631045cb
+run_name: delightful-ray-386
+run_uuid: c37b78a9c06745709d8db153631045cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714142366669
+status: 3
+tags: []
+user_id: siddhants

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/b297ba6198d04d33aee3682e0ac6946a/artifacts
+end_time: 1714143949055
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: b297ba6198d04d33aee3682e0ac6946a
+run_name: languid-trout-203
+run_uuid: b297ba6198d04d33aee3682e0ac6946a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714143863239
+status: 3
+tags: []
+user_id: siddhants

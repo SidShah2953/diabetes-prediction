@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/88c3449c5517427c96108ae7671ddf05/artifacts
+end_time: 1714144980824
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 88c3449c5517427c96108ae7671ddf05
+run_name: lyrical-sheep-600
+run_uuid: 88c3449c5517427c96108ae7671ddf05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714144895442
+status: 3
+tags: []
+user_id: siddhants

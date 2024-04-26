@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/f5e63d6574964467a048ca31823f468a/artifacts
+end_time: 1714145726619
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: f5e63d6574964467a048ca31823f468a
+run_name: clumsy-steed-242
+run_uuid: f5e63d6574964467a048ca31823f468a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714145656731
+status: 3
+tags: []
+user_id: siddhants

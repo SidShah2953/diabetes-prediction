@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/9cf01af8c53643de8d7ef21812615161/artifacts
+end_time: 1714141543644
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 9cf01af8c53643de8d7ef21812615161
+run_name: bald-horse-611
+run_uuid: 9cf01af8c53643de8d7ef21812615161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714141494330
+status: 3
+tags: []
+user_id: siddhants

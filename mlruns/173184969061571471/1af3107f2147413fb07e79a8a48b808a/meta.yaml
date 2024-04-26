@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/1af3107f2147413fb07e79a8a48b808a/artifacts
+end_time: 1714145488574
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 1af3107f2147413fb07e79a8a48b808a
+run_name: fearless-mule-359
+run_uuid: 1af3107f2147413fb07e79a8a48b808a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714145441751
+status: 3
+tags: []
+user_id: siddhants

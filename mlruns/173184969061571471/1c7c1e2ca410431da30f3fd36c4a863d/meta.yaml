@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/1c7c1e2ca410431da30f3fd36c4a863d/artifacts
+end_time: 1714141864861
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 1c7c1e2ca410431da30f3fd36c4a863d
+run_name: debonair-bird-100
+run_uuid: 1c7c1e2ca410431da30f3fd36c4a863d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714141797973
+status: 3
+tags: []
+user_id: siddhants

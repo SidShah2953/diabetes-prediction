@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/8e2ddeef2a44444c94a77b5fdc084fdd/artifacts
+end_time: 1714141679976
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 8e2ddeef2a44444c94a77b5fdc084fdd
+run_name: suave-wren-315
+run_uuid: 8e2ddeef2a44444c94a77b5fdc084fdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714141593966
+status: 3
+tags: []
+user_id: siddhants

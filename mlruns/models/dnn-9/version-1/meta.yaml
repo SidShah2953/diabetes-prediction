@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1714141963131
+current_stage: None
+description: ''
+last_updated_timestamp: 1714141963131
+name: dnn-9
+run_id: e1fb7b9ffcf341719150454d7bc639ca
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/e1fb7b9ffcf341719150454d7bc639ca/artifacts/dnn-9
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/e1fb7b9ffcf341719150454d7bc639ca/artifacts/dnn-9
+user_id: null
+version: 1

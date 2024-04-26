@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/23274b5066d14edf8e8e0dab69b543a1/artifacts
+end_time: 1714144288012
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 23274b5066d14edf8e8e0dab69b543a1
+run_name: nebulous-fox-291
+run_uuid: 23274b5066d14edf8e8e0dab69b543a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714144240974
+status: 3
+tags: []
+user_id: siddhants

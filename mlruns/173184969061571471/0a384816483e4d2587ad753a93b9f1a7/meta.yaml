@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/0a384816483e4d2587ad753a93b9f1a7/artifacts
+end_time: 1714143729125
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 0a384816483e4d2587ad753a93b9f1a7
+run_name: zealous-perch-662
+run_uuid: 0a384816483e4d2587ad753a93b9f1a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714143662740
+status: 3
+tags: []
+user_id: siddhants

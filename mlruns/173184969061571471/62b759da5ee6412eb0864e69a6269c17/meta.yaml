@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/62b759da5ee6412eb0864e69a6269c17/artifacts
+end_time: 1714142815166
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 62b759da5ee6412eb0864e69a6269c17
+run_name: puzzled-finch-732
+run_uuid: 62b759da5ee6412eb0864e69a6269c17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714142729191
+status: 3
+tags: []
+user_id: siddhants

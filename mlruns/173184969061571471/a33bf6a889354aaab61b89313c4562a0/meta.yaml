@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/a33bf6a889354aaab61b89313c4562a0/artifacts
+end_time: 1714144456488
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: a33bf6a889354aaab61b89313c4562a0
+run_name: flawless-pig-5
+run_uuid: a33bf6a889354aaab61b89313c4562a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714144386733
+status: 3
+tags: []
+user_id: siddhants

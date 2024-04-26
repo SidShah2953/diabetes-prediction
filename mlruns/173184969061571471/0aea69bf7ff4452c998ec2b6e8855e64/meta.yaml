@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/0aea69bf7ff4452c998ec2b6e8855e64/artifacts
+end_time: 1714141914154
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 0aea69bf7ff4452c998ec2b6e8855e64
+run_name: beautiful-frog-327
+run_uuid: 0aea69bf7ff4452c998ec2b6e8855e64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714141864869
+status: 3
+tags: []
+user_id: siddhants

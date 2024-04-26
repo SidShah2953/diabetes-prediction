@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/bbbfa2774e3d4a09a7b972ebd55f61be/artifacts
+end_time: 1714142543863
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: bbbfa2774e3d4a09a7b972ebd55f61be
+run_name: bustling-calf-961
+run_uuid: bbbfa2774e3d4a09a7b972ebd55f61be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714142470346
+status: 3
+tags: []
+user_id: siddhants

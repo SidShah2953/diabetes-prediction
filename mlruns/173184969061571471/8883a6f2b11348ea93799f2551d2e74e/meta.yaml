@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/8883a6f2b11348ea93799f2551d2e74e/artifacts
+end_time: 1714145441743
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 8883a6f2b11348ea93799f2551d2e74e
+run_name: debonair-elk-573
+run_uuid: 8883a6f2b11348ea93799f2551d2e74e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714145392039
+status: 3
+tags: []
+user_id: siddhants

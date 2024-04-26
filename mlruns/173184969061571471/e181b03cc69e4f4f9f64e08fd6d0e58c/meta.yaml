@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/e181b03cc69e4f4f9f64e08fd6d0e58c/artifacts
+end_time: 1714144240967
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: e181b03cc69e4f4f9f64e08fd6d0e58c
+run_name: chill-eel-563
+run_uuid: e181b03cc69e4f4f9f64e08fd6d0e58c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714144191825
+status: 3
+tags: []
+user_id: siddhants

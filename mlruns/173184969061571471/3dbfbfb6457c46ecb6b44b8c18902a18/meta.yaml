@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/3dbfbfb6457c46ecb6b44b8c18902a18/artifacts
+end_time: 1714142232264
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 3dbfbfb6457c46ecb6b44b8c18902a18
+run_name: valuable-crow-64
+run_uuid: 3dbfbfb6457c46ecb6b44b8c18902a18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714142169013
+status: 3
+tags: []
+user_id: siddhants

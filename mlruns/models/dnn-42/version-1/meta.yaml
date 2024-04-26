@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1714144120629
+current_stage: None
+description: ''
+last_updated_timestamp: 1714144120629
+name: dnn-42
+run_id: b05cc11db9a64ed7a877102af076b272
+run_link: ''
+source: mlflow-artifacts:/173184969061571471/b05cc11db9a64ed7a877102af076b272/artifacts/dnn-42
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/173184969061571471/b05cc11db9a64ed7a877102af076b272/artifacts/dnn-42
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/2c4aeeca12d94c6e8725a12688c09275/artifacts
+end_time: 1714143039329
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 2c4aeeca12d94c6e8725a12688c09275
+run_name: powerful-jay-438
+run_uuid: 2c4aeeca12d94c6e8725a12688c09275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714142957689
+status: 3
+tags: []
+user_id: siddhants

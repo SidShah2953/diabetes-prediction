@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/1a37ae00e3c347118a7540f73f6671a1/artifacts
+end_time: 1714143863231
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 1a37ae00e3c347118a7540f73f6671a1
+run_name: classy-wolf-333
+run_uuid: 1a37ae00e3c347118a7540f73f6671a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714143814694
+status: 3
+tags: []
+user_id: siddhants

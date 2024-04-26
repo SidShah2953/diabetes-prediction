@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/18973ca2abb645c08555c0a9faeb7a64/artifacts
+end_time: 1714143814687
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 18973ca2abb645c08555c0a9faeb7a64
+run_name: resilient-whale-262
+run_uuid: 18973ca2abb645c08555c0a9faeb7a64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714143729131
+status: 3
+tags: []
+user_id: siddhants

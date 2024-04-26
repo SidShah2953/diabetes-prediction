@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/b40d9a7fac8f4cb28c6145baa833e899/artifacts
+end_time: 1714144386726
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: b40d9a7fac8f4cb28c6145baa833e899
+run_name: carefree-trout-720
+run_uuid: b40d9a7fac8f4cb28c6145baa833e899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714144336860
+status: 3
+tags: []
+user_id: siddhants

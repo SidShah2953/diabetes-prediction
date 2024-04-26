@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/b13b1c1b7fc944028c5d520b0054ee90/artifacts
+end_time: 1714142470340
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: b13b1c1b7fc944028c5d520b0054ee90
+run_name: zealous-fowl-16
+run_uuid: b13b1c1b7fc944028c5d520b0054ee90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714142420025
+status: 3
+tags: []
+user_id: siddhants

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/87c45d51ea374ec782ac2770339093e4/artifacts
+end_time: 1714143490366
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 87c45d51ea374ec782ac2770339093e4
+run_name: clean-bass-393
+run_uuid: 87c45d51ea374ec782ac2770339093e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714143434020
+status: 3
+tags: []
+user_id: siddhants

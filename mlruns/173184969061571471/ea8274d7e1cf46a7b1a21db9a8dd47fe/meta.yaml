@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/ea8274d7e1cf46a7b1a21db9a8dd47fe/artifacts
+end_time: 1714141408592
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: ea8274d7e1cf46a7b1a21db9a8dd47fe
+run_name: unruly-koi-598
+run_uuid: ea8274d7e1cf46a7b1a21db9a8dd47fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714141337782
+status: 3
+tags: []
+user_id: siddhants

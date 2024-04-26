@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/65536d8e04e54f2f8c6b1ce438041ff5/artifacts
+end_time: 1714145030590
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 65536d8e04e54f2f8c6b1ce438041ff5
+run_name: casual-pug-685
+run_uuid: 65536d8e04e54f2f8c6b1ce438041ff5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714144980831
+status: 3
+tags: []
+user_id: siddhants

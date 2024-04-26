@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/58e81af8f9a74d3697d0bc9caa31ca8a/artifacts
+end_time: 1714142016691
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 58e81af8f9a74d3697d0bc9caa31ca8a
+run_name: clean-seal-676
+run_uuid: 58e81af8f9a74d3697d0bc9caa31ca8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714141963142
+status: 3
+tags: []
+user_id: siddhants

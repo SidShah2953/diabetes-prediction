@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/1c1f93d1f2504e15bc09e72583cdaecf/artifacts
+end_time: 1714142366662
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 1c1f93d1f2504e15bc09e72583cdaecf
+run_name: exultant-gnu-494
+run_uuid: 1c1f93d1f2504e15bc09e72583cdaecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714142317761
+status: 3
+tags: []
+user_id: siddhants

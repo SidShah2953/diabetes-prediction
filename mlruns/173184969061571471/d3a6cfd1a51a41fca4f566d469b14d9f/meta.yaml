@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/d3a6cfd1a51a41fca4f566d469b14d9f/artifacts
+end_time: 1714143271750
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: d3a6cfd1a51a41fca4f566d469b14d9f
+run_name: intelligent-mare-788
+run_uuid: d3a6cfd1a51a41fca4f566d469b14d9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714143209893
+status: 3
+tags: []
+user_id: siddhants

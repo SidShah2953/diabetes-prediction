@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173184969061571471/6ae91df76c62429ab780a34d648b6904/artifacts
+end_time: 1714143434013
+entry_point_name: ''
+experiment_id: '173184969061571471'
+lifecycle_stage: active
+run_id: 6ae91df76c62429ab780a34d648b6904
+run_name: gaudy-cub-320
+run_uuid: 6ae91df76c62429ab780a34d648b6904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714143357547
+status: 3
+tags: []
+user_id: siddhants
