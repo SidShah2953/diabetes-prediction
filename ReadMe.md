@@ -1,6 +1,6 @@
-# MBS Prepayment Prediction using Deep Learning
+# Diabetes Risk Prediction using Deep Learning
 
-Models to be considered: Linear regression, Lasso linear regression, Decision Tree, DNN
+Models to be considered: Linear regression, Decision Tree Clasiifier, DNN
 
 ## References
 
